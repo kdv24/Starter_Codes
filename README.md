@@ -1,4 +1,4 @@
-CStarter_Codes
+Starter_Codes
 =============
 
 basic intro code
